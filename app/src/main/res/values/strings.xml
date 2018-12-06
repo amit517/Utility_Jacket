@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Utility Jacket</string>
+    <string name="default_location">Fetching Location</string>
+    <string name="default_temp">NA</string>
+    <string name="change_city_description">Click Here to Change City</string>
+    <string name="weather_description">This is the weather symbol</string>
+    <string name="back_button_description">Dismiss Change City Screen</string>
+    <string name="get_weather">Change City</string>
+    <string name="default_query">Enter city name</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="LocationText">Enter Location</string>
+    <string name="description">The main aim of this app is to put some day to day needed services together. In this app, the user can check weather, currency, bitcoin price. There are some other features like convert weight and temperature.
+    If you face any problem using this app please fill free to mail.
+    </string>
+
+    <string name="label_default_text">304.74</string>
+    <string name="label_error_text">Error</string>
+    <string name="base">Base Currency</string>
+    <string name="imageview_desc">Bitcoin Logo</string>
+
+    <string-array name="currency_array">
+        <item>AUD</item>
+        <item>BRL</item>
+        <item>CAD</item>
+        <item>CNY</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>HKD</item>
+        <item>JPY</item>
+        <item>PLN</item>
+        <item>RUB</item>
+        <item>SEK</item>
+        <item>USD</item>
+        <item>ZAR</item>
+    </string-array>
+
+
+</resources>
